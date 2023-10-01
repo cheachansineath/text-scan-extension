@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Text Scan",
+    "description": "Scan text from your web page",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "camera.png"
+    },
+    "permissions": [
+      "activeTab", "tabs", "storage"
+    ],
+    "host_permissions": [
+      "<all_urls>"
+    ]
+  }
