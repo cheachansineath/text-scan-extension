@@ -18,7 +18,7 @@ Step3: Click on "Crop Text" button to crop the text that you want
 
   **Note: if click "Crop Text" button doesn't see anything, please close the tab and try again (It take a few second to load for the first time)
   
-Step4: Crop the text the you want to convert
+Step4: Crop the text that you want to convert
 
 Step5: Click on "Scan Text" button after you crop the text image
 
